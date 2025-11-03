@@ -69,3 +69,6 @@ plt.axis('off')
 
 <img width="250" height="327" alt="image" src="https://github.com/user-attachments/assets/01aa92c0-dbfa-4e96-8e0a-48deefb7a9c8" />
 
+### Result 
+Thus,The Python program to detect the lines using Hough Transform run successfully.
+
